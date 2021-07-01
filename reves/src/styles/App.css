@@ -13,28 +13,23 @@ body {
   display: grid;
   grid-template-columns: 1.4fr 1fr;
 }
-
 .one-ctn-txt {
   text-align: center;
   margin-top: auto;
   margin-bottom: auto;
 }
-
 .txt-title {
   font-size: 34px;
 }
 .txt-sub-title {
   font-size: 26px;
 }
-
 .ctn-img {
   /* height: 100%; */
   width: 100%;
   margin-top: auto;
   margin-bottom: auto;
 }
-
 img {
   width: 100%;
 }
-

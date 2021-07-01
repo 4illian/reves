@@ -1,6 +1,5 @@
 import React from 'react';
 import Carousel from 'react-bootstrap/Carousel'
-// import { Carousel } from 'react-responsive-carousel';
 import carousel1 from "../assets/carousel1.jpeg"
 import carousel2 from "../assets/carousel2.jpeg"
 import carousel3 from "../assets/carousel3.jpeg"
@@ -35,9 +34,6 @@ const SlideTwo = () => {
             <div className="carousel-ctn-txt">
                 <p>Notre dernière collection de lingerie.</p>
             </div>
-
-
-
         </div>
     );
 };

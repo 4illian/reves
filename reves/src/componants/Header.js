@@ -15,8 +15,6 @@ const Header = () => {
                 <img src={Logo}></img>
             </div>
 
-
-
             <Navbar collapseOnSelect className="header" expand="lg" variant="white">
                 <Fade clear duration={1200}>
                     <Navbar.Brand href="#home" className="title">Rêves Intimes</Navbar.Brand>

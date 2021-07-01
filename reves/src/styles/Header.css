@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
 header {
     background-color: rgba(0, 0, 0, 0.2);
     position: absolute;
@@ -21,9 +22,6 @@ header {
     font-family: 'Parisienne', cursive;
 }
 .ctn-logo {
-    /* height: 100%; */
-    /* max-height: 8vh; */
-    
     width: 5vw;
     margin-left: 4vw;
 }

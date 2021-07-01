@@ -1,7 +1,7 @@
 import React from 'react';
 import toy from "../assets/black.png"
 import Fade from 'react-reveal/Fade';
-import { Button} from 'react-bootstrap'
+import { Button } from 'react-bootstrap'
 const SlideOne = () => {
     return (
         <div className="slide one">
@@ -12,7 +12,7 @@ const SlideOne = () => {
 
                 <Fade clear duration={3400}>
                     <p className="txt-sub-title">Rabbit.</p>
-                    <p>Le nouveau vibromasseur de la marque Oh My,<br/> plus puissant, plus longtemps...</p>
+                    <p>Le nouveau vibromasseur de la marque Oh My,<br /> plus puissant, plus longtemps...</p>
                 </Fade>
 
                 <Button variant="dark">En voir plus</Button>
