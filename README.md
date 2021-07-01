@@ -1,2 +1,2 @@
 # reves
-Home for Rêves Intime
+Home for Rêves Intimes
